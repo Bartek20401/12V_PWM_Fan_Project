@@ -15,7 +15,7 @@ Design and 3D print the enclosure for the system.
 
 # 2. Milestone
    
-<b>Milestone 1.</b> '\n'
+<b>Milestone 1.</b><br></br>
 Define the functionality and select the necessary components for building the system.
 
 Verification criteria:
@@ -23,25 +23,25 @@ Verification criteria:
     - List of necessary components.
 	- List of planned functionalities.
 
-Milestone 2.
+<b>Milestone 2.</b><br></br>
 Enabling the PWM port and one communication method
 
 Verification criteria:
     - A functioning PWM port with the ability to control the duty cycle
 
-Milestone 3. 
+<b>Milestone 3.</b><br></br> 
 Starting the fans.
 
 Verification criteria
 	- 3 fans operational
 
-Milestone 4. 
+<b>Milestone 4.</b><br></br>
 Add a second method for controlling the duty cycle
 
 Verification method
     - Two methods for controlling the duty cycle operating in parallel
 
-Milestone 5. 
+<b>Milestone 5.</b><br></br>
 Enclosure design
     
 
