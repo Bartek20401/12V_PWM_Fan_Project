@@ -15,7 +15,7 @@ Design and 3D print the enclosure for the system.
 
 # 2. Milestone
    
-Milestone 1.
+<b>Milestone 1.</b> '\n'
 Define the functionality and select the necessary components for building the system.
 
 Verification criteria:
