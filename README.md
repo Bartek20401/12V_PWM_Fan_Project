@@ -2,7 +2,7 @@
 Project of 12V PWM fan control based on RiPico for Design Lab course
 
 
-1. Design Goals
+# 1. Design Goals
    
 Main Project Goal
 To design and implement a controller that allows for the speed control of 12 V fans using a Raspberry Pi Pico microcontroller and a PWM signal. The controller supports both local and remote control.
@@ -13,7 +13,7 @@ Ability to set the speed using buttons.
 Ability to set and display the speed via a terminal.
 Design and 3D print the enclosure for the system.
 
-2. Milestone
+# 2. Milestone
    
 Milestone 1.
 Define the functionality and select the necessary components for building the system.
@@ -48,4 +48,6 @@ Enclosure design
 Verification method
     - Enclosure for the circuit board designed and printed
 
-Translated with DeepL.com (free version)
+# 3. Project Progress
+
+24.10.26 - Defined project goals and milestones, created hardware requirements list.
