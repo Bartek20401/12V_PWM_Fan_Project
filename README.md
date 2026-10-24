@@ -25,27 +25,31 @@ Verification criteria:
 
 <b>Milestone 2.</b><br></br>
 Enabling the PWM port and one communication method
+<br></br>
+<br></br>
 
-Verification criteria:
+Verification criteria:<br></br>
     - A functioning PWM port with the ability to control the duty cycle
 
 <b>Milestone 3.</b><br></br> 
 Starting the fans.
+<br></br>
+<br></br>
 
-Verification criteria
+Verification criteria:<br></br>
 	- 3 fans operational
 
 <b>Milestone 4.</b><br></br>
 Add a second method for controlling the duty cycle
-
-Verification method
+<br></br><br></br>
+Verification method:<br></br>
     - Two methods for controlling the duty cycle operating in parallel
 
 <b>Milestone 5.</b><br></br>
 Enclosure design
-    
+    <br></br><br></br>
 
-Verification method
+Verification method:<br></br>
     - Enclosure for the circuit board designed and printed
 
 # 3. Project Progress
