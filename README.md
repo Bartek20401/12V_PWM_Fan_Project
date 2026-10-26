@@ -9,7 +9,7 @@ To design and implement a controller that allows for the speed control of 12 V f
 
 Control of at least one 12 V fan.
 Ability to set the speed within the range of 0–100%.
-Ability to set the speed using buttons.
+Ability to set the speed using joystick.
 Ability to set and display the speed via a terminal.
 Design and 3D print the enclosure for the system.
 
