@@ -1,5 +1,5 @@
 # 12V_PWM_Fan_Project
-Project of 12V PWM fan control based on RiPico for Design Lab course
+Project of 12V PWM fan control based on RiPico for the Design Lab course
 
 
 # 1. Design Goals
@@ -9,7 +9,7 @@ To design and implement a controller that allows for the speed control of 12 V f
 
 Control of at least one 12 V fan.
 Ability to set the speed within the range of 0–100%.
-Ability to set the speed using joystick.
+Ability to set the speed using a joystick.
 Ability to set and display the speed via a terminal.
 Design and 3D print the enclosure for the system.
 
@@ -55,3 +55,4 @@ Verification method:<br></br>
 # 3. Project Progress
 
 24.10.26 - Defined project goals and milestones, created hardware requirements list.
+29.10.26 - Enabling PWM port connected to buildin led and created communication via terminal to control it. 
