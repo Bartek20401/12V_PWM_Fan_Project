@@ -55,4 +55,4 @@ Verification method:<br></br>
 # 3. Project Progress
 
 24.10.26 - Defined project goals and milestones, created hardware requirements list.<br>
-29.10.26 - Enabling PWM port connected to buildin led and created communication via terminal to control it. 
+
